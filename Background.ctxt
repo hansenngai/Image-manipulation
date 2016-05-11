@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Background
+comment0.text=\n\ Starter\ code\ for\ Image\ Manipulation\ Array\ Assignment.\n\ \n\ The\ class\ Processor\ contains\ all\ of\ the\ code\ to\ actually\ perform\n\ transformation.\ The\ rest\ of\ the\ classes\ serve\ to\ support\ that\n\ capability.\ This\ World\ allows\ the\ user\ to\ choose\ transformations\n\ and\ open\ files.\n\ \n\ Add\ to\ it\ and\ make\ it\ your\ own\!\n\ \n\ @author\ Jordan\ Cohen\n\ @version\ November\ 2013\n
+comment1.params=
+comment1.target=Background()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Background.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act()\ method\ just\ checks\ for\ mouse\ input...\ Not\ going\ to\ do\ anything\ else\ here\n
+comment3.params=
+comment3.target=void\ checkMouse()
+comment3.text=\n\ Check\ for\ user\ clicking\ on\ a\ button\n
+comment4.params=
+comment4.target=void\ openFile()
+comment4.text=\n\ Allows\ the\ user\ to\ open\ a\ new\ image\ file.\n
+comment5.params=
+comment5.target=void\ prepare()
+comment5.text=\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\ That\ is\:\ create\ the\ initial\n\ objects\ and\ add\ them\ to\ the\ world.\n
+comment6.params=newBi
+comment6.target=greenfoot.GreenfootImage\ createGreenfootImageFromBI(java.awt.image.BufferedImage)
+comment6.text=\n\ Takes\ in\ a\ BufferedImage\ and\ returns\ a\ GreenfootImage.\n\ \n\ @param\ newBi\ The\ BufferedImage\ to\ convert.\n\ \n\ @return\ GreenfootImage\ \ \ A\ GreenfootImage\ built\ from\ the\ BufferedImage\ provided.\n
+numComments=7
